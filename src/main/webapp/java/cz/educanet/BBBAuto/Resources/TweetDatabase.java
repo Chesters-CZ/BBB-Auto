@@ -1,6 +1,6 @@
 package cz.educanet.BBBAuto.Resources;
 
-import cz.educanet.twitternt.Tweets;
+import cz.educanet.BBBAuto.Tweets;
 
 import java.util.ArrayList;
 import java.util.List;

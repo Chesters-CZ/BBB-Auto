@@ -1,9 +1,9 @@
 package cz.educanet.BBBAuto;
 
-import cz.educanet.twitternt.Resources.LoginDatabase;
-import cz.educanet.twitternt.Resources.Tweet;
-import cz.educanet.twitternt.Resources.TweetDatabase;
-import cz.educanet.twitternt.Resources.User;
+import cz.educanet.BBBAuto.Resources.LoginDatabase;
+import cz.educanet.BBBAuto.Resources.Tweet;
+import cz.educanet.BBBAuto.Resources.TweetDatabase;
+import cz.educanet.BBBAuto.Resources.User;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.Response;

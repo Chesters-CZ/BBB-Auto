@@ -1,6 +1,6 @@
 package cz.educanet.BBBAuto.Resources;
 
-import cz.educanet.twitternt.Resources.User;
+import cz.educanet.BBBAuto.Resources.User;
 
 public class Tweet{
     public String header;
