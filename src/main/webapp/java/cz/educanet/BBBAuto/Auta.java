@@ -8,7 +8,7 @@ import cz.educanet.BBBAuto.Resources.User;
 import javax.ws.rs.*;
 import javax.ws.rs.core.Response;
 
-@Path("tweets")
+@Path("auta")
 public class Auta {
 
     @GET
